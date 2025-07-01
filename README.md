@@ -1,2 +1,2 @@
 # Basic-html
-This is my first html git repository in which i learn and perform different tags like anchor&lt;a href=>,heading &lt;h>,paragraph&lt;p>,&lt;b> or &lt;strong>,&lt;i> or &lt;em>,&lt;u>,&lt;sub>,&lt;sup>,&lt;dl>(&lt;dt> ,&lt;dd>),&lt;ol>,&lt;ul>,&lt;table>,&lt;td>,&lt;th>&lt;tr>,&lt;caption>,&lt;forms>and its tags. in this repository i perform all basic things of html which helpful for all begineers. thankyou ..
+This is my first html git repository in which i learn and perform different tags which helpful for all begineers.<br> thankyou ..
